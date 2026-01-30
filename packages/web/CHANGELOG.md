@@ -1,5 +1,11 @@
 # @workflow/web
 
+## 4.0.1-beta.31
+
+### Patch Changes
+
+- [#814](https://github.com/vercel/workflow/pull/814) [`b16a682`](https://github.com/vercel/workflow/commit/b16a6828af36a2d5adb38fb6a6d1253657001ac8) Thanks [@TooTallNate](https://github.com/TooTallNate)! - Move "parse-name" into the `utils` package
+
 ## 4.0.1-beta.30
 
 ### Patch Changes

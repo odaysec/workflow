@@ -1,7 +1,7 @@
 {
   "name": "@workflow/example-nest",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1-beta.0",
   "type": "module",
   "scripts": {
     "generate:workflows": "node ../scripts/generate-workflows-registry.js ./src/workflows ./src/_workflows.ts --esm",
